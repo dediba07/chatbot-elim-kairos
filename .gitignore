@@ -1,0 +1,5 @@
+.env contoh
+TELEGRAM_BOT_TOKEN=
+SUPABASE_URL=
+SUPABASE_PRIVATE_KEY=
+node_modules/
